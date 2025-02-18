@@ -1,3 +1,6 @@
 # Priority-Bypasser-for-Windows
 
-requirements psutil>=5.0.0
+requirements: 
+
+pip install psutil>=5.0.0
+
